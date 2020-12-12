@@ -1,0 +1,185 @@
+
+
+#header { 
+  background: url(https://images.unsplash.com/photo-1528538589297-40a058c7bc1e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c2144a6d6e69a41548abd4ede5b7e925&auto=format&fit=crop&w=1534&q=80) no-repeat center center fixed;
+  background-size: cover;
+  padding-top:80px;
+  padding-bottom:80px;
+}
+
+#header h1 { 
+font-family: 'Playfair Display', serif;
+  font-size: 60px;
+  font-weight: 900;
+  color: white;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+  }
+
+#header h5 {
+  font-family: 'Fauna One', serif;
+  font-size: 24px;
+  color: white;
+  
+}
+
+
+#header a {
+  color: #777;
+  text-transform: capitalize;
+  text-decoration: none;
+  transition: color 0.4s linear;
+  font-family: 'Playfair Display', serif
+}
+
+#header a:hover{
+  color: #bbb;
+}
+
+#header img {
+  width: 300px;
+	height: 300px;
+}
+
+.image-circle {
+  border-radius: 50%;
+}
+
+#Monparcours {
+  background-color: black;
+background-size: cover;
+  padding-top:80px;
+  padding-bottom:80px;
+  
+}
+
+#Monparcours h2{
+  font-family: 'Playfair Display', serif;
+  font-size: 60px;
+  font-weight: 900;
+  color: white;
+  padding-bottom: 20px;
+  border-bottom: solid 1px white;
+  margin-bottom: 40px;
+}
+
+#Monparcours ul {
+  font-family: 'Fauna One', serif;
+  font-size: 24px;
+  color: white;  
+}
+
+#Mesexp {
+background: url(https://images.unsplash.com/photo-1528538589297-40a058c7bc1e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c2144a6d6e69a41548abd4ede5b7e925&auto=format&fit=crop&w=1534&q=80) no-repeat center center fixed;
+  background-size: cover;
+  padding-top:80px;
+  padding-bottom:80px;
+  }
+
+#Mesexp .main{
+  font-family: 'Fauna One', serif;
+  font-size: 16px;
+  color: white;
+}
+
+#Mesexp h2{
+  font-family: 'Playfair Display', serif;
+  font-size: 60px;
+  font-weight: 900;
+  color: white;
+  padding-bottom: 20px;
+  border-bottom: solid 1px white;
+  margin-bottom: 40px;
+}
+
+#Mesexp h4{
+  font-family: 'Fauna One', serif;
+  font-size: 24px;
+  color: white;  
+}
+
+#Mesexp .notes{
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  font-size: 14px;
+  color: white;
+}
+
+#Competences {
+   background-color: #4C4949;
+background-size: cover;
+  padding-top:80px;
+  padding-bottom:80px;
+  
+}
+
+#Competences h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 60px;
+  font-weight: 900;
+  color: white;
+  padding-bottom: 20px;
+  border-bottom: solid 1px white;
+  margin-bottom: 40px;
+  }
+
+.circle{
+    margin:10px;
+    width:170px;
+    height:170px;
+    border-radius:100%;
+    background-color:#EAEAEA;
+    color: black;
+    text-align:center;
+    font-size:16px;
+    overflow:hidden;
+}
+
+.circle.one-line{
+  line-height:170px;
+font-family: 'Fauna One', serif
+}
+
+
+.circle.multi-line{
+    padding-top:60px;
+    height:110px;
+  font-family: 'Fauna One', serif
+}
+
+.button-primary {
+  background-color: #BF7763;
+  color: white;
+  width: 120px;
+  height: 30px;
+  border-radius: 10px; 
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px;
+  margin-left: 90px;
+  box-shadow: 0px 0px 10px 2px rgba(119, 119, 119, 0.2);
+}
+
+
+#Contact {
+  background-color: white;
+background-size: cover;
+  padding-top:80px;
+  padding-bottom:80px; 
+}
+
+#Contact h2 {
+   font-family: 'Playfair Display', serif;
+  font-size: 60px;
+  font-weight: 900;
+  color: black;
+  padding-bottom: 20px;
+  border-bottom: solid 1px black;
+  margin-bottom: 40px;
+}
+
+#Contact {
+ font-family: 'Fauna One', serif; 
+}
+
